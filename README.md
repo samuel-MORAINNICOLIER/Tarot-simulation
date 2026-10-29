@@ -28,6 +28,8 @@
    Lancer le fichier tarot.py ou utiliser l'installateur .exe disponible sur github.
 </p>
 
+> https://github.com/samuel-MORAINNICOLIER/Tarot-simulation/releases
+
 ## Dépendances
 ### Pygame
 > Possède la license LGPL 
