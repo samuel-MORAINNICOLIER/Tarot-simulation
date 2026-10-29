@@ -19,7 +19,7 @@
    > Avoir Python et Pygame d'installé sur son pc ou son environnement </BR>
    > Python : https://www.python.org/downloads/ </BR>
    > Pygame : https://pypi.org/project/pygame/ </BR>
-   > \> git clone https://github.com/samuel-MORAINNICOLIER/TarotSimulateur.git </BR>
+   > \> git clone https://github.com/samuel-MORAINNICOLIER/Tarot-simulation.git </BR>
    > \> cd TarotSimulateur </BR>
 </p>
 
