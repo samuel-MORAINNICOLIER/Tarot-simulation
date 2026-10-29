@@ -15,20 +15,15 @@
 </p>
 
 ## Installation du projet
-<p>
    > Avoir Python et Pygame d'installé sur son pc ou son environnement </BR>
    > Python : https://www.python.org/downloads/ </BR>
    > Pygame : https://pypi.org/project/pygame/ </BR>
    > \> git clone https://github.com/samuel-MORAINNICOLIER/Tarot-simulation.git </BR>
    > \> cd TarotSimulateur </BR>
-</p>
 
 ## Lancer le projet
-<p>
-   Lancer le fichier tarot.py ou utiliser l'installateur .exe.
-</p>
-
-> https://github.com/samuel-MORAINNICOLIER/Tarot-simulation/releases
+   Lancer le fichier tarot.py ou utiliser l'installateur .exe :
+   https://github.com/samuel-MORAINNICOLIER/Tarot-simulation/releases
 
 ## Dépendances
 ### Pygame
