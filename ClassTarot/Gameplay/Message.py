@@ -16,7 +16,7 @@ class Message :
         self._color_msg = color_msg
         self._taille = taille
         self._position = position
-        self._police = pygame.font.Font("Minecraftia-Regular.ttf", self._taille)
+        self._police = pygame.font.Font("Minecraft.otf", self._taille)
 
     def getMessage(self):
         return self._msg

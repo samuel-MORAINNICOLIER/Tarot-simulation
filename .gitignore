@@ -1,2 +1,6 @@
 .venv
 .idea
+
+# Executables
+tarot.exe
+tarot_setup.exe.exe
