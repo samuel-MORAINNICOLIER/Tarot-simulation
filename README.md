@@ -25,7 +25,7 @@
 
 ## Lancer le projet
 <p>
-   Lancer le fichier tarot.py ou utiliser l'installateur .exe disponible sur github.
+   Lancer le fichier tarot.py ou utiliser l'installateur .exe.
 </p>
 
 > https://github.com/samuel-MORAINNICOLIER/Tarot-simulation/releases
